@@ -1,0 +1,57 @@
+body{
+    font-family: 'Open Sans', sans-serif;
+    font-size: 1.5vh;
+    color: #212121;
+    background-color: #212121;
+}
+.edge{
+    background: #212121;
+}
+h1{
+    padding: 1em;
+    font-size: 3vh;
+    font-weight: bold;
+}
+.left {
+    text-decoration: none;
+    display: inline;
+    margin: 0;
+    text-align: left;
+    white-space: nowrap;
+}
+.filler {
+    width: auto;
+    margin: 0;
+    padding: 0;
+    text-align: center;
+    overflow: hidden;
+}
+.right {
+    display: inline;
+    width: auto;
+    text-align: right;
+    margin: 0;
+    white-space: nowrap;
+}
+.contain {
+    width: 80%;
+    padding-bottom: 0.3rem;
+    margin: 0;
+}
+
+.container-fluid{
+    padding: 0;
+    margin: 0;
+}
+.row{
+    margin: 0;
+}
+.smalltext{
+    font-size: 1vh;
+}
+.bottom-nav{
+    position:fixed;
+    width:100%;
+    bottom:5vh;
+}
+
